@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = malejandramp13@gmail.com
+	name = Mayra Moreno
